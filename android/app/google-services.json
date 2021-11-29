@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "200679475185",
+    "project_id": "chat-codelab-e2d3c",
+    "storage_bucket": "chat-codelab-e2d3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200679475185:android:a1b2cadd38a854f541a650",
+        "android_client_info": {
+          "package_name": "com.example.groupchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200679475185-30edkqvibo1uqv7ot7subj6acc27396p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.groupchat",
+            "certificate_hash": "18dfe04aa77307f6f387ead46436282ee2888007"
+          }
+        },
+        {
+          "client_id": "200679475185-48vvgqhadadb83pp3e25dbjd2aaj4dgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyConvuJrlEBTqd3FwsiDg4JcrX8P_UR5N8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200679475185-48vvgqhadadb83pp3e25dbjd2aaj4dgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
